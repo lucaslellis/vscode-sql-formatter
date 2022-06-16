@@ -1,8 +1,8 @@
 {
-  "name": "vscode-sql-formatter",
+  "name": "vscode-sql-formatter-fork",
   "displayName": "SQL Formatter",
   "description": "Format sql files using the sql-formatter npm package",
-  "version": "2.1.6-fork",
+  "version": "0.0.1",
   "publisher": "lucaslellis",
   "repository": {
     "type": "git",
@@ -26,7 +26,8 @@
     "n1ql",
     "redshift",
     "spark",
-    "tsql"
+    "tsql",
+    "oraclesql"
   ],
   "activationEvents": [
     "onLanguage:sql",
